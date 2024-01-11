@@ -1,8 +1,6 @@
 <div align="center"> 
 
-### 👋 Welcome to my GitHub Profile!
-
-<br/>
+## 👋 Welcome to My GitHub Profile!
 
 ### :clipboard: Technologies I've Used 
 
