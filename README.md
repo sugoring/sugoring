@@ -21,7 +21,7 @@
 
 ---
 [![Solved.ac
-sugoring](http://mazassumnida.wtf/api/v2/generate_badge?boj={sugoring})](https://solved.ac/{sugoring})
+sugoring](http://mazassumnida.wtf/api/v2/generate_badge?boj=sugoring)](https://solved.ac/sugoring)
 
 ---
 ## Tech Stack
