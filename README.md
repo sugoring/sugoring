@@ -20,7 +20,10 @@
 <br>
 
 ---
+[![Solved.ac
+sugoring](http://mazassumnida.wtf/api/v2/generate_badge?boj={sugoring})](https://solved.ac/{sugoring})
 
+---
 ## Tech Stack
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
