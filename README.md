@@ -1,7 +1,7 @@
 <div align="center"> 
 
 ### ⭐ ⬇️ ⬇️ ⬇️ ⭐
-#  카카오 테크 캠퍼스 지원 포트폴리오 
+#  [카카오 테크 캠퍼스 지원 포트폴리오](https://kakao-yuni.notion.site/8-b36c540ead3444ff8775d8d2862cab2e)
 ## [kakao-yuni.notion.site](https://kakao-yuni.notion.site/8-b36c540ead3444ff8775d8d2862cab2e)
 ### ⭐ ⬆️ ⬆️ ⬆️ ⭐
 ### (아래 내용은 위 링크의 일부 내용입니다.)
