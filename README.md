@@ -7,7 +7,7 @@
   <br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=sugoring&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=3572A5&text_color=fff&title_color=3572A5&count_private=true" width="45%" style="border-radius: 8px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=sugoring&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=3572A5&text_color=fff&title_color=3572A5&count_private=true" width="90%" style="border-radius: 8px;"/>
   </a>
 
   <br>
