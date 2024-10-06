@@ -1,11 +1,5 @@
 <div align="center" style="font-family: Arial, sans-serif;">
   <h1>JavaScript-based Front-End Developer</h1>
-  <p>
-    🧷 <a href="https://yuni-dev.notion.site/61f39062182444338b3aa0b65257e74c?pvs=74" target="_blank" style="color: #3572A5; text-decoration: none; font-weight: bold;">Portfolio</a>
-  </p>
-  <p>
-    🧷 <a href="https://www.linkedin.com/in/yunsu-heo-6908932b6/" target="_blank" style="color: #3572A5; text-decoration: none; font-weight: bold;">LinkedIn</a>
-  </p>
   <br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
